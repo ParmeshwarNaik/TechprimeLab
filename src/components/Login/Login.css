@@ -1,0 +1,57 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+       
+}
+
+.login{
+    padding:15px;
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 5px;
+    height: 400px;
+    box-shadow: 4px 4px 4px 8px rgba(79, 20, 20, 0.1); /* Box shadow */
+    
+}
+.login-heading{
+    text-align: center;
+}
+form div input{
+    border: 1px solid rgb(162, 147, 147);
+    border-radius: 5px;
+    height: 50px;
+    width: 400px;
+}
+
+
+  
+
+  .forget-password  {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: rgb(151, 208, 226);
+    text-decoration: none;
+    margin-top: 10px;
+ 
+  }
+  
+  .forget-password a:hover {
+    text-decoration: underline;
+  }
+
+
+.button{
+ background-color:rgb(10, 96, 122); /* Green color for success */
+  color: white;
+  cursor: pointer;
+  padding:10px;
+  width: 150px;
+  margin-top: 40px;
+  margin-left: 120px;
+  border: none;
+  border-radius: 20px;
+  
+}

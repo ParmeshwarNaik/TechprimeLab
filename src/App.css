@@ -1,0 +1,38 @@
+
+.logo{
+   
+    
+    margin-top: -25%;
+    margin-left: 48%;
+    margin-bottom: 10px;
+   
+}
+
+.logo h3{
+    color: white;
+    margin-left: -60px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 768px) {
+   
+    .loginbg {
+        width: 500px;
+        zoom: 2;
+     
+      }
+      .logo{
+        margin-top: -140%;
+        margin-left: 50%;
+        zoom: 2;
+        
+       
+    }
+    .logo h3{
+        color: black;
+        margin-left: -60px;
+      
+    }
+    .container{
+        margin-left: 50%;
+    }
+  }
